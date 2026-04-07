@@ -1,0 +1,10 @@
+- Understand the data structure
+- Check for missing values
+- Analyze relationships between features and target (graphs)
+- Target: use math score or create final_score column
+- Preprocessing (if necessary)
+- Use the following algorithms (you can add more):
+        - Linear Regression        - Decision Tree Regressor
+        - Random Forest Regressor
+        - Gradient Boosting Regressor
+- Evaluation
