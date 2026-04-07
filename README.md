@@ -1,0 +1,10 @@
+- Handle missing values
+- Encode categorical variables (e.g. gender, service types, etc.)
+- Train-test split  
+- Select classification algorithms (choose at least three), e.g.:
+ - Random Forest Classifier
+ - KNN
+ - Logistic Regression
+ - SVM
+    - Decision Tree Classifier etc.
+-  Use GridSearchCV or RandomizedSearchCV (scoring: both accuracy and f1 score)
